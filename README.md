@@ -17,9 +17,9 @@ Mi nombre es Alejo Carobolante y soy un desarrollador y estudiante de ingenieria
 
 ### General information:
 
-Trabajando en <a href="https://github.com/AlejoCarobolante/portfolio"><strong>mi portfolio</strong></a>.    
+Actualmente aprendiendo <a href="https://go.dev"><strong align="center">GoLang</strong></a>.
     
-Actualmente aprendiendo <a href="https://www.mysql.com/"><strong align="center">MySQL</strong></a>.    
+Fanático de <a href="https://www.mysql.com/"><strong align="center">MySQL</strong></a>.    
     
 ¿Buscás contactarme? <a href="mailto:alejocarobolante@gmail.com">alejocarobolante@gmail.com</a>
 
