@@ -20,7 +20,7 @@ Mi nombre es Alejo Carobolante y soy un desarrollador y estudiante de ingenierí
 Actualmente aprendiendo <a href="https://go.dev"><strong>GoLang</strong></a> y profundizando en <a href="https://roadmap.sh/devops"><strong>DevOps</strong></a>.  
 Aquí está la hoja de ruta que estoy siguiendo:  
 
-[![DevOps Roadmap](https://roadmap.sh/roadmaps/devops.png)](https://roadmap.sh/devops)
+[![DevOps Roadmap](https://img.shields.io/badge/roadmap-DevOps-blue?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/devops)
 
 Fanático de <a href="https://www.mysql.com/"><strong>MySQL</strong></a>.    
     
